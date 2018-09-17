@@ -1,0 +1,2 @@
+# breast-cancer-detection
+This data has been taken from the University of California Irvine's machine learning repository. It is a standard dataset that can be used to apply and test the efficiency and accuracy of various advanced classification algorithms on such data. Fortunately, I managed to get a 100% test accuracy without over-fitting the model, want to see which algorithm gave such awesome accuracy?
